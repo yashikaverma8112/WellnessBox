@@ -2,6 +2,12 @@
 
 #Output
 
+
+
+https://github.com/yashikaverma8112/WellnessBox/assets/96378034/a6c494d9-95cf-401d-8f92-64b365520914
+
+
+
 # HomePage
 
 
