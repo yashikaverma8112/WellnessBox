@@ -8,6 +8,60 @@ https://github.com/yashikaverma8112/WellnessBox/assets/96378034/a6c494d9-95cf-40
 
 
 
+🌿 Introducing WellnessBox: Your Path to Healthy Lifestyle 🌿
+
+
+
+At WellnessBox, we're committed to helping you achieve your healthy lifestyle goals. Whether you're looking for self-care products, healthy snacks, fitness accessories, mindfulness tools, tech-free essentials, or educational materials, we've got you covered!
+
+
+
+🚀 Technologies Used: Node.js, React.js, MongoDB, Restful API, Postman, Bootstrap5, and a seamless payment gateway using Razorpay, authentication witn json web token.
+
+
+
+🛍️ What We Offer: Explore and order a curated selection of products to enhance your wellness journey, including self-care essentials, healthy snacks, fitness accessories, mindfulness tools, tech-free solutions, educational materials, and more.
+
+Items are classified into different categories for easy selection, ensuring a seamless shopping experience.
+
+
+
+🔒 Secure and Seamless: With JWT authentication for login and signup, you can shop with confidence knowing your information is protected. Easy Logout functionality with removal of token also present
+
+
+
+🔍 Easy Search: Quickly find the products you need with our intuitive search functionality.
+
+
+
+🛒 Dynamic Shopping Experience: Add products of different price with respect to product size to your cart, easy removal of product from cart 
+
+
+
+💳 Effortless Checkout: Use Razorpay for a smooth and secure payment process. Multiple Payment options are also available 
+
+
+
+📦 MyOrders: After a successful payment, your ordered products are added to your MyOrders page for easy tracking.
+
+
+
+🔹 Responsive and Validation : This is completely responsive full stack web application , compatible from small to large devices . Input Validation functionality is present to ensure data is written in correct format
+
+
+
+WellnessBox - Healthier you & Happier your !!
+
+
+
+#Wellness #Health #SelfCare #Fitness #Mindfulness #TechFree #Education #WellnessBox #NodeJS #ReactJS #MongoDB #Razorpay #products #mernstack #fullstack #jwt #authentication #restapi #healthy #lifestyle
+
+
+
+
+
+
+
 # HomePage
 
 
